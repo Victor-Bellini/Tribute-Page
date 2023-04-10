@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Poppins;
+    text-align: center;
+  }
+  
+  #main {
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+    margin: 25px auto;
+  }
+  
+  #img-div {
+    padding: 10px;
+    background: #fff;
+  }
+  
+  #image {
+    max-width: 100%;
+    max-height: auto;
+    margin: 0 auto;
+    display: block;
+  }
+  
+  #img-caption {
+    font-weight: 300;
+    margin-top: 10px;
+  }
+  
+  #tribute-info {
+    margin-top: 10px;
+  }
